@@ -8,5 +8,4 @@ resource "aws_instance" "Amazon_Linux_2023"
   tags = {
     Name = "Git_Learning_Server"
   }
-}
 
