@@ -6,7 +6,7 @@ resource "aws_instance" "Amazon_Linux_2023"
   instance_type = "t2.micro"
   key_name      = "New_MC"
   tags = {
-    Name = "Learning_Server"
+    Name = "Git_Learning_Server"
   }
 }
 
